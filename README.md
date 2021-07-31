@@ -1,8 +1,8 @@
 # CustomerCIT
 Summary of incidents with customers
 
-## Subheading 1
+## Favourable incidents of interacting with customers
 
-## Subheading 2
+## Unfavourable incidents of interacting with customers
 
-# Big heading
+
